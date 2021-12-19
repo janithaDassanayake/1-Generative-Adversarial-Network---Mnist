@@ -1,5 +1,3 @@
-# 1-Generative-Adversarial-Network---Mnist
-
 # **Generative Adversarial Nets (GANs)**
 
 ---
